@@ -1,4 +1,4 @@
-![Program Generator](https://github.com/user-attachments/assets/8b957d02-62ba-4d8c-b177-387720c1939f)
+![Program Generator](https://github.com/user-attachments/assets/966dd8b3-e7e3-4eb2-8ce6-9251a43dcc12)
 
 > Create templated dev programs to generate other programs.
 #
