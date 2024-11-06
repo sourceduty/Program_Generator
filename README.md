@@ -1,6 +1,6 @@
 ![Program Generator](https://github.com/user-attachments/assets/966dd8b3-e7e3-4eb2-8ce6-9251a43dcc12)
 
-> Create templated dev programs to generate other mini-programs.
+> Create templated dev programs to generate other mini or meta-programs.
 #
 
 [Program Generator](https://chatgpt.com/g/g-EFrOSQR04-program-generator) specializes in creating meta-programs—Python programs that automatically generate other, smaller Python programs. These meta-programs function as templates or blueprints, allowing developers to quickly produce targeted scripts or applications for repetitive tasks, data processing, or even basic user interfaces. For example, if a developer frequently needs custom scripts to handle specific file processing or data parsing tasks, this GPT can generate a meta-program that will, in turn, create these smaller scripts on-demand based on customizable parameters. By offering highly modular and flexible code structures, the Program Generator GPT enables the rapid creation of reusable mini-programs, each tailored to a particular function or data structure.
