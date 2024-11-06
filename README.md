@@ -11,6 +11,7 @@ A practical application could involve building a meta-program for a "notepad" ge
 Create a templated meta-program development generator.
 Create an example templated Python dev program.
 Create an example Python meta-program generator.
+Print a cheat sheet for this custom GPT.
 ```
 
 #
