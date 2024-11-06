@@ -51,6 +51,8 @@ A series of metaprogram generators can be invaluable for projects requiring high
 
 > Alex: "*A technical blueprint architect for miniature Python programs. Code that codes.*"
 
+> "*I tried looking down from my high-level Python code and everything below was just binary smog!*"
+
 #
 ### Related Links
 
