@@ -8,7 +8,7 @@
 A practical application could involve building a meta-program for a "notepad" generator. This meta-program might produce different versions of a text editor, each with customized features, such as different save formats, search functionalities, or styling options. Another example might be a generator for automated data parsers, where a single meta-program allows developers to specify fields, data types, and validation logic, outputting individual parsing scripts that match various data sources. The Program Generator GPT provides step-by-step instructions and structured code templates, helping developers streamline workflows by automating the production of specialized tools while maintaining consistency across projects.
 
 ```
-Create a templated dev meta-programs generator.
+Create a templated dev meta-program generator.
 Create an example templated Python dev program.
 ```
 
