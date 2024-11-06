@@ -3,13 +3,14 @@
 > Create templated dev meta-programs to generate other mini programs.
 #
 
-[Program Generator](https://chatgpt.com/g/g-EFrOSQR04-program-generator) specializes in creating meta-programs—Python programs that automatically generate other, smaller Python programs. These meta-programs function as templates or blueprints, allowing developers to quickly produce targeted scripts or applications for repetitive tasks, data processing, or even basic user interfaces. For example, if a developer frequently needs custom scripts to handle specific file processing or data parsing tasks, this GPT can generate a meta-program that will, in turn, create these smaller scripts on-demand based on customizable parameters. By offering highly modular and flexible code structures, the Program Generator GPT enables the rapid creation of reusable mini-programs, each tailored to a particular function or data structure.
+[Program Generator](https://chatgpt.com/g/g-EFrOSQR04-program-generator) specializes in creating Python meta-programs that automatically generate other, smaller Python programs. These meta-programs function as templates or blueprints, allowing developers to quickly produce targeted scripts or applications for repetitive tasks, data processing, or even basic user interfaces. For example, if a developer frequently needs custom scripts to handle specific file processing or data parsing tasks, this GPT can generate a meta-program that will, in turn, create these smaller scripts on-demand based on customizable parameters. By offering highly modular and flexible code structures, the Program Generator GPT enables the rapid creation of reusable mini-programs, each tailored to a particular function or data structure.
 
 A practical application could involve building a meta-program for a "notepad" generator. This meta-program might produce different versions of a text editor, each with customized features, such as different save formats, search functionalities, or styling options. Another example might be a generator for automated data parsers, where a single meta-program allows developers to specify fields, data types, and validation logic, outputting individual parsing scripts that match various data sources. The Program Generator GPT provides step-by-step instructions and structured code templates, helping developers streamline workflows by automating the production of specialized tools while maintaining consistency across projects.
 
 ```
-Create a templated dev meta-program generator.
+Create a templated meta-program development generator.
 Create an example templated Python dev program.
+Create an example Python meta-program generator.
 ```
 
 #
