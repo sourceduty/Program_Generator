@@ -1,6 +1,6 @@
 ![Program Generator](https://github.com/user-attachments/assets/966dd8b3-e7e3-4eb2-8ce6-9251a43dcc12)
 
-> Create templated dev programs to generate other programs.
+> Create templated dev programs to generate other mini-programs.
 #
 
 [Program Generator](https://chatgpt.com/g/g-EFrOSQR04-program-generator) is designed to help developers create modular, reusable code templates for building smaller, standalone programs efficiently. By providing pre-structured code templates, it enables users to quickly assemble common programming tasks, such as data manipulation, user interface components, automation scripts, and basic functionality setups. For instance, if a developer needs a script to automate file renaming based on a specific pattern, this GPT can generate a Python template that reads files from a directory, applies a naming convention, and logs the results. Alternatively, if a data handling module is required, it might offer a structured template to read, process, and output data in a chosen format (e.g., CSV, JSON). Each template is designed to work independently but can also be combined with others, making it suitable for rapid prototyping or as building blocks in larger applications.
